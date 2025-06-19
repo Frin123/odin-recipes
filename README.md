@@ -1,1 +1,1 @@
-# odin-recipes
+# This is a recipe project and to reflect my skills to use html, git commit, and github
